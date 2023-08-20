@@ -1,0 +1,7 @@
+libgssapi-krb5-2
+libk5crypto3
+libkrb5-3
+libkrb5support0
+libssl3
+openssl
+perl-base
